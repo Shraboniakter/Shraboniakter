@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;I%27m+Shrabon;Flutter+Mobile+App+Developer;CSE+Student+at+City+University" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;I%27m+Shrabon;Flutter+Mobile+App+Developer;CSE+Student+at+City+University" />
 
 </div>
 
@@ -12,17 +12,18 @@
 
 </div>
 
-# 👨‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 CSE Student at **City University, Bangladesh**  
-📱 Flutter Mobile App Developer  
-🚀 Passionate about building beautiful mobile apps  
+🎓 CSE Student at **City University, Bangladesh**
+📱 Flutter Mobile App Developer
+🚀 Passionate about building beautiful mobile apps
 
 💡 Currently learning:
-- Flutter Advanced Development
-- API Integration
-- Clean Architecture
-- State Management
+
+* Flutter Advanced Development
+* API Integration
+* Clean Architecture
+* State Management
 
 ---
 
@@ -30,11 +31,11 @@
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge\&logo=dart\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
@@ -44,9 +45,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shraboniakter&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shraboniakter&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraboniakter&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraboniakter&layout=compact&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
@@ -56,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraboniakter&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraboniakter&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -66,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shraboniakter&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shraboniakter&theme=radical&no-frame=true&column=7"/>
 
 </div>
 
@@ -84,15 +85,15 @@
 
 # 📫 Contact Me
 
-📧 Email: **shrabonbhuiyan708@gamil.com**
+📧 Email: **[shrabonbhuiyan708@gamil.com](mailto:shrabonbhuiyan708@gamil.com)**
 
-💻 GitHub:  
+💻 GitHub:
 https://github.com/Shraboniakter
 
 ---
 
 <div align="center">
 
-⭐ From **Shrabon**
+💗 From **Shrabon**
 
 </div>
