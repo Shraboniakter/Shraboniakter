@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;I%27m+Shrabon;Flutter+Mobile+App+Developer;CSE+Student+at+City+University" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;I%27m+Shrabon;Software+Engineer;CSE+Student+at+City+University" />
 
 </div>
 
@@ -12,18 +12,17 @@
 
 </div>
 
-# 👩‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 CSE Student at **City University, Bangladesh**
-📱 Flutter Mobile App Developer
-🚀 Passionate about building beautiful mobile apps
+🎓 CSE Student at **City University, Bangladesh**  
+💻 Software Engineer  
+🚀 Passionate about building scalable software  
 
 💡 Currently learning:
-
-* Flutter Advanced Development
-* API Integration
-* Clean Architecture
-* State Management
+- Flutter Advanced Development
+- API Integration
+- Clean Architecture
+- State Management
 
 ---
 
@@ -31,11 +30,11 @@
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge\&logo=dart\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge\&logo=github\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -85,9 +84,9 @@
 
 # 📫 Contact Me
 
-📧 Email: **[shrabonbhuiyan708@gamil.com](mailto:shrabonbhuiyan708@gamil.com)**
+📧 Email: **shrabonbhuiyan708@gamil.com**
 
-💻 GitHub:
+💻 GitHub:  
 https://github.com/Shraboniakter
 
 ---
